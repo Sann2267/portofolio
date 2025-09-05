@@ -1,4 +1,4 @@
-# portofolio
+# PORTOFOLIO
 # Ibnu Adzim — Freelance IT & Junior Tech Support
 
 **SMK TKJ student • Freelance IT services • Aspiring Philosophy student (study abroad)**
