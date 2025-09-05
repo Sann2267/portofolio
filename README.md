@@ -59,9 +59,9 @@ Deliverables are provided as `proposal.pdf`, `invoice_sample.pdf`, and `report.p
 
 
 ## 📫 Let’s Connect!
-- [My GitHub](https://github.com/Sann2267)
-- 📧 Email: ibnuadzim2@gmail.com
-- 📱 WhatsApp: [+62 838 6345 2229](https://wa.me/6283863452229)
-- [Instagram: @ibnuadzim2](https://instagram.com/ibnuadzim2)
-- [Tiktok: @d0kjaaa](https://tiktok.com/@d0kjaaa)
-- Discord: asta_
+- *My GitHub*  : [Sann2267](https://github.com/Sann2267)
+- *Email*      : ibnuadzim2@gmail.com
+- *WhatsApp*   : [+62 838 6345 2229](https://wa.me/6283863452229)
+- *Instagram*  : [@ibnuadzim2](https://instagram.com/ibnuadzim2)
+- *Tiktok*     : [@d0kjaaa](https://tiktok.com/@d0kjaaa)
+- *Discord*    : asta_
